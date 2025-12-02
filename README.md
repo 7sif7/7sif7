@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Fisnik
 
-<!--
-**7sif7/7sif7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a **Master's degree in Mechatronics**  
+🐧 Linux enjoyer — **I use Arch btw**  
+💻 Love working close to hardware, embedded systems, and low-level tools  
+😄 Also… I’m a fun guy 🍄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About Me
+- ⚙️ Passionate about **embedded systems**, **robotics**, and **control engineering**
+- 💡 I enjoy solving problems that require both **software + hardware** thinking
+
+---
+
+## 💻 Tech I Like
+- **C / C++**,
+- **Linux systems programming**  
+- **Embedded development** (ARM, SBCs, microcontrollers)  
+- **Robotics & control** (ROS, LQR, PID, dynamics, motion control)  
+- V4L2, low-level video capture, realtime systems, Image Processing
+
+---
+
+## 📫 Reach Me
+- fisniktishukaj.com
+---
